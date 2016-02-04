@@ -1,0 +1,125 @@
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\CrookSurveyBuilder.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\CrookSurveyBuilder.pdb
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Antlr3.Runtime.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.SqlServer.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Core.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Cookies.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Facebook.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Google.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.OAuth.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Twitter.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Web.Infrastructure.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Newtonsoft.Json.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Owin.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Net.Http.Formatting.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Helpers.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.Owin.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.WebHost.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Mvc.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Optimization.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Razor.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Deployment.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Razor.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\WebGrease.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.SqlServer.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Newtonsoft.Json.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Net.Http.Formatting.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Helpers.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.WebHost.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Mvc.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Optimization.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Razor.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Deployment.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Razor.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Antlr3.Runtime.pdb
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Core.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Facebook.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Cookies.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.OAuth.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Google.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Twitter.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.Owin.xml
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.UI.csprojResolveAssemblyReference.cache
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.dll
+\\SRV-107-FS.INT.Teched.HR\UserData\MiroslavL\Desktop\SurveyBuilder-master\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.pdb
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\CrookSurveyBuilder.dll.config
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\CrookSurveyBuilder.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\CrookSurveyBuilder.pdb
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Antlr3.Runtime.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.SqlServer.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Google.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Web.Infrastructure.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Newtonsoft.Json.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Owin.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Net.Http.Formatting.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Helpers.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.Owin.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.WebHost.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Mvc.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Optimization.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Razor.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Deployment.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Razor.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\WebGrease.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\EntityFramework.SqlServer.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Newtonsoft.Json.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Net.Http.Formatting.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Helpers.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.WebHost.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Mvc.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Optimization.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Razor.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Deployment.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.WebPages.Razor.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Antlr3.Runtime.pdb
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Google.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\bin\System.Web.Http.Owin.xml
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.UI.csprojResolveAssemblyReference.cache
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.dll
+H:\Anketa - web app\SurveyBuilder-master\CrookSurveyBuilder\obj\Debug\CrookSurveyBuilder.pdb
