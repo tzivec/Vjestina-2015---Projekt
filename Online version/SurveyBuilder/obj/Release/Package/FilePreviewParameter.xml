@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SurveyBuilderApp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:survey-host.database.windows.net,1433;Initial Catalog=SurveyDB;Persist Security Info=True;User ID=rocky;Password=LiMuNaDa55!" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SurveyBuilderDataModel-Web.config Connection String" description="" value="Data Source=tcp:survey-data.database.windows.net,1433;Initial Catalog=SurveyDBData;Persist Security Info=True;User ID=rocky;Password=LiMuNaDa55!" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SurveyBuilderDataModel']/@connectionString" />
+  </parameter>
+</parameters>

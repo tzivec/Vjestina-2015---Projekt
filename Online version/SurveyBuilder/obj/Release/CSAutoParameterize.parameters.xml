@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:survey-host.database.windows.net,1433;Database=SurveyDB;User ID=rocky@survey-host;Password={LiMuNaDa55!};Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SurveyBuilderDataModel-Web.config Connection String" description="SurveyBuilderDataModel Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:survey-data.database.windows.net,1433;Database=SurveyDBData;User ID=rocky@survey-data;Password={LiMuNaDa55!};Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SurveyBuilderDataModel']/@connectionString" />
+  </parameter>
+  <parameter name="SurveyBuilderDataModel_DatabasePublish-Web.config Connection String" description="SurveyBuilderDataModel_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="SurveyBuilderDataModel_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tomislav\\Desktop\\Tomislav\\SurveyBuilder\\SurveyBuilder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SurveyBuilderDataModel_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

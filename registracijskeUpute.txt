@@ -1,0 +1,6 @@
+Za registraciju je potrebno odabrati ispravan E-mail te Password koji sadrži:
+
+	-najmanje 6 znakova
+	-najmanje jedno veliko slovo
+	-najmanje jedan broj
+	-(inicijalno je bilo da mora sadržavati i jedan specijalni znak tipa .!? itd., ali sam to maknuo jer komplicira registraicju nepotrebno)

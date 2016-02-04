@@ -1,0 +1,5 @@
+username: administrator@surveybuilder.com
+password: Administrator1!
+
+username: simple.user@gmail.com
+password: Simpleuser1!
